@@ -1,4 +1,6 @@
-## Hi there 👋
+## Ciao, I'm Frank 👋
+
+Software Engineer at [Infinite Red](https://infinite.red/). I help maintain [Ignite](https://github.com/infinitered/ignite/) love working on all things related to Expo and React Native!
 
 <!--
 **frankcalise/frankcalise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
